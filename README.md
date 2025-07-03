@@ -1,4 +1,4 @@
-# Hello. I'm devotion
+# Hello, I'm devotion
 
 Your favourite home budget app
 
